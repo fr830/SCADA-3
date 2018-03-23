@@ -95,7 +95,7 @@ namespace dCom.Configuration
 				string s = string.Empty;
 				while ((s = tr.ReadLine()) != null)
 				{
-					string[] splited = s.Split(' ');
+					string[] splited = s.Split(new char[2]{' ','t'});
 					List<string> filtered = splited.ToList().FindAll(t => !string.IsNullOrEmpty(t));
 					if(filtered.Count == 0)
 					{
