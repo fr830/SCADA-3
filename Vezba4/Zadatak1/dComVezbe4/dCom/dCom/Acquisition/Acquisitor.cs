@@ -53,10 +53,11 @@ namespace dCom.Acquisition
             int DOCnt = cr.GetAcquisitionInterval("DigOut");
             int AOCnt = cr.GetAcquisitionInterval("AnaOut");
 
-            while (true) {
-                if(cnt % DOCnt == 0)
+            while (true)
+            {
+                if (cnt % DOCnt == 0)
                 {
-                    ModbusReadCommandParameters mcp = new ModbusReadCommandParameters(6,(byte)ModbusFunctionCode.READ_COILS,cr.GetStartAddress("DigOut"),cr.GetNumberOfRegisters("DigOut"));
+                    ModbusReadCommandParameters mcp = new ModbusReadCommandParameters(6, (byte)ModbusFunctionCode.READ_COILS, cr.GetStartAddress("DigOut"), cr.GetNumberOfRegisters("DigOut"));
                     ModbusFunction mf = FunctionFactory.CreateModbusFunction(mcp);
                     this.commandExecutor.EnqueueCommand(mf);
                 }
@@ -72,7 +73,7 @@ namespace dCom.Acquisition
                 {
                     acquisitionTrigger.WaitOne();
                     cnt++;
-                    
+
                 }
                 catch (Exception ex)
                 {
@@ -80,7 +81,7 @@ namespace dCom.Acquisition
                     stateUpdater.LogMessage(message);
                 }
             }
-		}
+        }
 
 		#endregion Private Methods
 

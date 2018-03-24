@@ -71,9 +71,21 @@ namespace dCom.ViewModel
 		{
 			try
 			{
-				// TODO implement
-				ModbusFunction fn = FunctionFactory.CreateModbusFunction(null);
-				this.commandExecutor.EnqueueCommand(fn);
+                ModbusWriteCommandParameters mwp = null;
+                if (type == PointType.DIGITAL_OUTPUT)
+                {
+                    mwp = new ModbusWriteCommandParameters(6, (byte)ModbusFunctionCode.WRITE_SINGLE_COIL, address, rawValue);
+                    ModbusFunction fn = FunctionFactory.CreateModbusFunction(mwp);
+                    this.commandExecutor.EnqueueCommand(fn);
+                }
+                else if(type == PointType.ANALOG_OUTPUT)
+                {
+                    mwp = new ModbusWriteCommandParameters(6, (byte)ModbusFunctionCode.WRITE_SINGLE_REGISTER, address, rawValue);
+                    ModbusFunction fn = FunctionFactory.CreateModbusFunction(mwp);
+                    this.commandExecutor.EnqueueCommand(fn);
+                    
+                }
+				
 			}
 			catch (Exception ex)
 			{
