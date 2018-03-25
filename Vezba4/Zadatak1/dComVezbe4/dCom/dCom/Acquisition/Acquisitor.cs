@@ -69,6 +69,17 @@ namespace dCom.Acquisition
                     this.commandExecutor.EnqueueCommand(mf);
                 }
 
+
+
+
+                ModbusWriteCommandParameters mwcp1 = new ModbusWriteCommandParameters(6, (byte)ModbusFunctionCode.WRITE_SINGLE_COIL, cr.GetStartAddress("DigOut"), cr.GetNumberOfRegisters("DigOut"));
+                ModbusFunction mf1 = FunctionFactory.CreateModbusFunction(mwcp1);
+                this.commandExecutor.EnqueueCommand(mf1);
+
+                ModbusWriteCommandParameters mwcp2 = new ModbusWriteCommandParameters(6, (byte)ModbusFunctionCode.WRITE_SINGLE_REGISTER, cr.GetStartAddress("AnaOut"), cr.GetNumberOfRegisters("AnaOut"));
+                ModbusFunction mf2 = FunctionFactory.CreateModbusFunction(mwcp2);
+                this.commandExecutor.EnqueueCommand(mf2);
+
                 try
                 {
                     acquisitionTrigger.WaitOne();
