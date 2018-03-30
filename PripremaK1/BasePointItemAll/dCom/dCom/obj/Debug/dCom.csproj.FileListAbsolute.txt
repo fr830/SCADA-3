@@ -1,0 +1,38 @@
+D:\Downloads\dComBugFixes\dCom\dCom\bin\Debug\RtuCfg.txt
+D:\Downloads\dComBugFixes\dCom\dCom\bin\Debug\dCom.exe.config
+D:\Downloads\dComBugFixes\dCom\dCom\bin\Debug\dCom.exe
+D:\Downloads\dComBugFixes\dCom\dCom\bin\Debug\dCom.pdb
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\dCom.csprojResolveAssemblyReference.cache
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\ControlWindow.g.cs
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\MainWindow.g.cs
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\App.g.cs
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\dCom_MarkupCompile.cache
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\dCom_MarkupCompile.lref
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\ControlWindow.baml
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\MainWindow.baml
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\dCom.g.resources
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\dCom.Properties.Resources.resources
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\dCom.csproj.GenerateResource.cache
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\dCom.csproj.CoreCompileInputs.cache
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\dCom.exe
+D:\Downloads\dComBugFixes\dCom\dCom\obj\Debug\dCom.pdb
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\bin\Debug\RtuCfg.txt
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\bin\Debug\dCom.exe.config
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\bin\Debug\dCom.exe
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\bin\Debug\dCom.pdb
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\dCom.csprojResolveAssemblyReference.cache
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\ControlWindow.g.cs
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\MainWindow.g.cs
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\App.g.cs
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\dCom_MarkupCompile.cache
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\dCom_MarkupCompile.lref
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\ControlWindow.baml
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\MainWindow.baml
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\dCom.g.resources
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\dCom.Properties.Resources.resources
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\dCom.csproj.GenerateResource.cache
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\dCom.csproj.CoreCompileInputs.cache
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\dCom.exe
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK1\BasePointItemAll\dCom\dCom\obj\Debug\dCom.pdb
