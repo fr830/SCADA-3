@@ -1,0 +1,5 @@
+STA 1
+TCP 55005
+
+HR_INT  2 1000  0  0  200  100  AO  @AnaOut  #
+DO_REG  2 2000  0  0  1    0    DO  @DigOut  #
