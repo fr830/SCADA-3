@@ -1,0 +1,6 @@
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK2\Vezba8\dComPK2\dCom\Common\bin\Debug\Common.dll
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK2\Vezba8\dComPK2\dCom\Common\bin\Debug\Common.pdb
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK2\Vezba8\dComPK2\dCom\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK2\Vezba8\dComPK2\dCom\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK2\Vezba8\dComPK2\dCom\Common\obj\Debug\Common.dll
+D:\GitHub\III Godina\VI Semestar\SCADA\PripremaK2\Vezba8\dComPK2\dCom\Common\obj\Debug\Common.pdb

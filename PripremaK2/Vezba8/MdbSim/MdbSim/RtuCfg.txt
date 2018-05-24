@@ -1,0 +1,6 @@
+STA 1
+TCP 55005
+
+DI_REG  2 1000  0  0  1    0    DI  @DigIn
+HR_INT  2 3000  0  0  300  100  AO  @AnaOut
+DO_REG  2   40  0  0  1    0    DO  @DigOut
